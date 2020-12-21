@@ -2,7 +2,7 @@
 
 ## Portfolio DEV
 
-[![Page de vue site pwahost.xyz](http://localhost:8080/img/PerformCV.3ebd18935fcabbe453df1f631d3c4709.png)](https://pwahost.xyz/)
+[![Page de vue site pwahost.xyz](https://cv-pwahost.web.app/img/PerformCV.3ebd18935fcabbe453df1f631d3c4709.png)](https://pwahost.xyz/)
 
 ### Mes curriculum vitae professionnels
 
@@ -18,4 +18,4 @@
 * L'application a été réalisé et hébergé sur https://cursusdev.github.io/circus/ pour décrocher un entretien à la Wild School de Marseille.
 * L'exercice consistait à réaliser un site responsive pour un cirque d'un client américain. Les besoins consistaient à utiliser des balises li pour effectuer le menu, réalisé une UI qui calcule le montant automatiquement en fonction du nombre de placez choisies par l'utilisateur et la police d'écriture et du texte en anglais était imposé.
 
-[![Page web de vue cursusdev/circus](http://localhost:8080/img/capture-circus_240x166w.9ab4b7a6a4c37b2b40fc9a0380730a4d.png)](https://cursusdev.github.io/circus/)
+[![Page web de vue cursusdev/circus](https://cv-pwahost.web.app/img/capture-circus_240x166w.9ab4b7a6a4c37b2b40fc9a0380730a4d.png)](https://cursusdev.github.io/circus/)
