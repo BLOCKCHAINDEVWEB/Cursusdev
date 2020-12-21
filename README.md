@@ -12,8 +12,6 @@
 
 ### Wild Circus
 
-[![Page web de vue cursusdev/circus](https://cv-pwahost.web.app/img/capture-circus_240x166w.9ab4b7a6a4c37b2b40fc9a0380730a4d.png)](https://cursusdev.github.io/circus/)
-
 * Site static sans dépendance écrit avec les languages HTML5, CSS et ECMAScript. Publié sur [repo Github](https://github.com/Cursusdev/circus).
 * L'application a été réalisé et hébergé sur https://cursusdev.github.io/circus/ pour décrocher un entretien à la Wild School de Marseille.
 * L'exercice consistait à réaliser un site responsive pour un cirque d'un client américain. Les besoins consistaient à utiliser des balises li pour effectuer le menu, réalisé une UI qui calcule le montant automatiquement en fonction du nombre de placez choisies par l'utilisateur et la police d'écriture et du texte en anglais était imposé.
