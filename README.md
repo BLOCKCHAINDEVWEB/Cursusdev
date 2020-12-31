@@ -1,7 +1,7 @@
-#### Trouvez moi sur ce lien [ici](https://cv-pwahost.web.app/)
+## Trouvez moi sur ce lien [ici](https://cv-pwahost.web.app/)
 
 ### Mes curriculum vitae professionnels
-<img align="right" style="margin:0 20px 10px 0;" src="https://cv-pwahost.web.app/img/PerformCV.3ebd18935fcabbe453df1f631d3c4709.png" alt="cv image" width="240" height="182"/>
+<img align="right" style="margin:0 20px 10px 0;" src="https://github.com/Cursusdev/cv-pwahost/blob/master/img/PerformCV_1200w1200h.jpg?raw=true" alt="cv image" width="150" height="150"/>
 
 Site static sans dépendance, écrit avec les languages HTML5, CSS et ECMAScript. Compilé avec Webpack  et publié sur le [dépôt Github](https://github.com/Cursusdev/cv-pwahost)
 
