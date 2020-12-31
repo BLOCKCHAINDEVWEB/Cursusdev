@@ -1,4 +1,4 @@
-## Trouvez moi sur ce lien [ici](https://cv-pwahost.web.app/)
+## Trouvez moi sur ce lien [ici](https://pwahost.xyz/)
 
 ### Mes curriculum vitae professionnels
 <img align="right" style="margin:0 20px 10px 0;" src="https://github.com/Cursusdev/cv-pwahost/blob/master/img/PerformCV_1200w1200h.jpg?raw=true" alt="cv image" width="150" height="150"/>
