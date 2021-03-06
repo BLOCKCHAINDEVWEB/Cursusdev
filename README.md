@@ -8,3 +8,10 @@ Site static sans dépendance, écrit avec les languages HTML5, CSS et ECMAScript
 Développement local sur Docker en CD sur Cloud Run via un déclencheur sur Github. Hébergé avec Firebase sur [https://pwahost.xyz//](https://pwahost.xyz/)
 
 L'application possède un menu colant, des QRcodes, un timeline, du CSS accordion, des popups, des fenêtres modales un service workers et un fondu entre les pages.
+
+### Mes codes en formation développeur Web et Web mobile (2019)
+
+Projets en cours et réalisés sur toute la période de formation y compris celle du stage.
+Mais je vous annonce que CA PIQUE UN PEU!!!? c'est pourquoi moi j'y retourne pas moi-même!
+
+C'est [ici](https://bitbucket.org/repo/all/1?name=cursusdev) sur BitBucket.
