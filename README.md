@@ -11,7 +11,7 @@ L'application possède un menu colant, des QRcodes, un timeline, du CSS accordio
 
 ### Mes codes en formation développeur Web et Web mobile (2019)
 
-Projets réalisés sur toute la période de formation y compris celle du stage.
-Mais je vous annonce que CA PIQUE UN PEU!!!? c'est pourquoi moi j'y retourne pas moi-même!
+Projets réalisés sur toute la période de formation y compris celle du stage. 
+Mais je vous annonce que CA PIQUE UN PEU!!!? c'est pourquoi moi j'y retourne pas moi-même! 
 
-C'est [ici](https://bitbucket.org/repo/all/1?name=cursusdev) sur BitBucket.
+C'est [ici](https://bitbucket.org/repo/all/1?name=cursusdev) sur BitBucket. Le projet [[nodePortail](https://bitbucket.org/cursusdev/nodeportail/src/master/) - [phpPortail](https://bitbucket.org/cursusdev/phpportail/src/master/) - [revealPortail](https://bitbucket.org/cursusdev/revealportail/src/master/)] Le stage [[editeurEva](https://bitbucket.org/cursusdev/editeureva/src/master/) - [timeLine](https://bitbucket.org/cursusdev/timeline/src/master/)]
